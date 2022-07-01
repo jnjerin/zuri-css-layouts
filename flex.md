@@ -1,23 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Grid</title>
-    <style>
-    
-    </style>
-</head>
-<body>
-    <a href="index.html">Flexbox Layout</a>
-
-    <div class ="container-1">
-       
-    
-    </div>
-
-    <pre>
 Task: Recreate a 3-column card design using CSS Flexbox  Layout
 # Front-end Style Guide
 
@@ -54,6 +34,3 @@ The designs were created to the following widths:
 
 - Family: [Poppins](https://fonts.google.com/specimen/Poppins)
 - Weights: 400, 500, 600, 700
-    </pre>
-</body>
-</html>
